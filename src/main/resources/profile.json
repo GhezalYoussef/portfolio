@@ -1,0 +1,29 @@
+{
+  "name": "Your Name",
+  "headline": "Software Engineer | Backend & Web",
+  "summary": "Short paragraph about you. Replace this with your LinkedIn summary.",
+  "location": "City, Country",
+  "email": "you@example.com",
+  "phone": "+1234567890",
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "company": "Example Co",
+      "period": "2022 - Present",
+      "description": "Worked on backend systems and APIs."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "description": "A personal portfolio built with Spring Boot and Thymeleaf.",
+      "url": "https://example.com"
+    }
+  ],
+  "skills": [
+    { "name": "Java" },
+    { "name": "Spring Boot" },
+    { "name": "REST APIs" }
+  ]
+}
+
